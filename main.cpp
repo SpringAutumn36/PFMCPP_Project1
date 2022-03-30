@@ -93,7 +93,7 @@ basketballPlayer.watchFilm();
 //  action 2:  manufacturer manufacures products
     manufacturer.manufacureProduct();
 //  action 3:  manufacturer collaborates with brands
-    manufacturer.CollaborateWithBrand();
+    manufacturer.collaborateWithBrand();
       
 //  6)
 //  Noun:  phone
@@ -120,17 +120,17 @@ speaker.play();
 //  action 2:  speaker connect with phone
 speaker.connectPhone();
 //  action 3:  speaker vibrates
-speaker.Mute();
+speaker.mute();
 
 //  9)
-//  Noun:  microphone
-//  action 1:  microphone receives sounds
-microphone.receivesSound();   
-//  action 2:  microphone tests sound level
-microphone.testSoundLevel();
-//  action 3:  microphone collects signal
-microphone.collectSignal();  
-  
+//  Noun:  fingers
+//  action 1:  fingers point 
+finger.point();   
+//  action 2:  fingers cross
+finger.cross();
+//  action 3:  fingers form a fist
+finger.formFist();
+
 //  10)
 //  Noun:  bus
 //  action 1:  bus stops at bus station
