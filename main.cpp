@@ -14,7 +14,7 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
     Choose nouns that do things.  
     avoid choosing nouns that have things done TO them.
     If your noun consists of multiple words, use camelCaseToNameIt.
- 
+
  2) for each of the 10 nouns, write out 3 actions it might perform, in plain english.
     a) AVOID state-checking actions, like "Car has a horn".  i.e.
         car.hasHorn()
@@ -32,10 +32,9 @@ I will request a change be made to one of your 10 nouns for the sole purpose of 
             other actions that would work:
                 action: consume electricity
                 action: burn out and destroy filament.
-
         
  3) write out how you'd call that action in pseudo code, in the space after the plain-english action
- 
+
  4) If the action requires multiple words, use camelCaseToNameIt
      don't forget the semi-colon after each statement
  */
@@ -52,87 +51,96 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  guitarist
+//  action 1:  the guitarist plays guitar
+guitarist.playGuitar();
+//  action 2:  the guitarist uses guitar padels
+guitarist.useGuitarPadels();
+//  action 3:  the guitarist wirtes songs
+guitarist.wirteSongs();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  cat
+//  action 1:  the cat eats fish
+cat.eatFish();
+//  action 2:  the cat runs
+cat.run();
+//  action 3:  the cat drinks water
+cat.drinkWater();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  egnineer
+//  action 1:  the engineer writes code
+engineer.writeCodes();
+//  action 2:  the engineer designs circuits
+engineer.designCircuit();
+//  action 3:  the engineer cooperates with team
+engineer.cooperateWithTeam();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  basketballPlayer
+//  action 1:  basketballPlayer plays games
+basketballPlayer.playGame();
+//  action 2:  basketballPlayer practices
+basketballPlayer.practice();
+//  action 3:  basketballPlayer watches films
+basketballPlayer.watchFilm();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:  manufacturer
+//  action 1:  manufacturer produces
+    manufacturer.produce();
+//  action 2:  manufacturer manufacures products
+    manufacturer.manufacureProduct();
+//  action 3:  manufacturer collaborates with brands
+    manufacturer.collaborateWithBrand();
+      
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  phone
+//  action 1:  phone rings
+phone.ring();     
+//  action 2:  phone transmitts information
+phone.transmitInformation();  
+//  action 3:  phone receives texts
+phone.receiveText();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  wind
+//  action 1:  wind blows
+wind.blow();
+//  action 2:  wind forms hurricane
+wind.formHurricane();
+//  action 3:  wind brings flower seeds
+wind.bringFlowerSeed();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  speaker
+//  action 1:  speaker plays
+speaker.play();  
+//  action 2:  speaker connect with phone
+speaker.connectWithPhone();
+//  action 3:  speaker vibrates
+speaker.vibrate();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:  man in black
+//  action 1:  the man in black attack the alien 
+manInBlack.attackAlien();   
+//  action 2:  the man in black protect people
+manInBlack.protectPeople();
+//  action 3:  the man in black distinguish the species of aliens
+manInBlack.distinguishSpeciesOfAliens();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun:  bus
+//  action 1:  bus stops at bus station
+bus.stopAtBusStation();
+//  action 2:  bus slows down 
+bus.slow();
+//  action 3:  bus accelerates
+bus.accelerate();    
 
-//  action 2:
-
-//  action 3:
-
-
-
+  
 #endif
 
 /*
