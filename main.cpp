@@ -118,9 +118,9 @@ wind.bringFlowerSeed();
 //  action 1:  speaker plays
 speaker.play();  
 //  action 2:  speaker connect with phone
-speaker.connectPhone();
+speaker.connectWithPhone();
 //  action 3:  speaker vibrates
-speaker.mute();
+speaker.vibrate();
 
 //  9)
 //  Noun:  fingers
