@@ -123,13 +123,13 @@ speaker.connectWithPhone();
 speaker.vibrate();
 
 //  9)
-//  Noun:  fingers
-//  action 1:  fingers point 
-finger.point();   
-//  action 2:  fingers cross
-finger.cross();
-//  action 3:  fingers form a fist
-finger.formFist();
+//  Noun:  man in black
+//  action 1:  the man in black attack the alien 
+manInBlack.attackAlien();   
+//  action 2:  the man in black protect people
+manInBlack.protectPeople();
+//  action 3:  the man in black distinguish the species of aliens
+manInBlack.distinguishSpeciesOfAliens();
 
 //  10)
 //  Noun:  bus
